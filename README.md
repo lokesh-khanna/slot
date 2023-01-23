@@ -16,7 +16,7 @@ Add your timetable
 ### STEP 4
 Execute the program
 
-# CODE
+## CODE
 ```
 <!DOCTYPE html>
 <html lang="en">
@@ -119,11 +119,13 @@ Execute the program
 </html>
 ```
 
-# OUPUT
-![OUTPUT](http://lokeshkhanna.student.saveetha.in:8000/static/images/timetable1.png?raw=true)
+## OUPUT
+![OUTPUT](./timetable1.png)
 
-# HTML VALIDATOR
-![HTML VALIDATOR](http://lokeshkhanna.student.saveetha.in:8000/static/images/valid.png?raw=true)
 
-# RESULT
+## HTML VALIDATOR
+![HTML VALIDATOR](valid.png)
+
+
+## RESULT
 the program for creating slot time table is completed sucessfully 

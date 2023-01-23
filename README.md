@@ -17,7 +17,7 @@ Add your timetable
 Execute the program
 
 # CODE
-'''
+```
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -117,9 +117,10 @@ Execute the program
 </table>
 </body>
 </html>
-'''
+```
+
 # OUPUT
-![OUTPUT](http://lokeshkhanna.student.saveetha.in:8000/static/images/timetable.png?raw=true)
+![OUTPUT](http://lokeshkhanna.student.saveetha.in:8000/static/images/timetable1.png?raw=true)
 
 # HTML VALIDATOR
 ![HTML VALIDATOR](http://lokeshkhanna.student.saveetha.in:8000/static/images/valid.png?raw=true)
